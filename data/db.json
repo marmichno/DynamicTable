@@ -1,0 +1,90 @@
+{
+    "tableRow": [
+        {
+            "id": 1,
+            "name":"name1",
+            "numericValue": 256,
+            "dateValue": "2022-01-01",
+            "percentValue": "0%",
+            "role": "role1",
+            "availability": true
+        },
+        {
+            "id": 2,
+            "name":"name2",
+            "numericValue": 126,
+            "dateValue": "2022-01-05",
+            "percentValue": "25%",
+            "role": "role2",
+            "availability": true
+        },
+        {
+            "id": 3,
+            "name":"name3",
+            "numericValue": 56,
+            "dateValue": "2022-01-10",
+            "percentValue": "50%",
+            "role": "role3",
+            "availability": false
+        },
+        {
+            "id": 4,
+            "name":"name4",
+            "numericValue": 146,
+            "dateValue": "2022-01-15",
+            "percentValue": "75%",
+            "role": "role4",
+            "availability": false
+        },
+        {
+            "id": 5,
+            "name":"name5",
+            "numericValue": 26,
+            "dateValue": "2022-01-20",
+            "percentValue": "100%",
+            "role": "role5",
+            "availability": true
+        },
+        {
+            "id": 6,
+            "name":"name6",
+            "numericValue": 26,
+            "dateValue": "2022-01-22",
+            "percentValue": "33%",
+            "role": "role5",
+            "availability": true
+        },
+        {
+            "id": 7,
+            "name":"name7",
+            "numericValue": 26,
+            "dateValue": "2022-01-23",
+            "percentValue": "46%",
+            "role": "role5",
+            "availability": true
+        }
+        
+    ],
+    "roles": [
+        {
+            "id": 1,
+            "name": "role1"
+        },
+        {
+            "id": 2,
+            "name": "role2"
+        },
+        {
+            "id": 3,
+            "name": "role3"
+        },
+        {
+            "id": 4,
+            "name": "role4"
+        },
+        {
+            "id": 5,
+            "name": "role5"
+        }
+    ]
+}
