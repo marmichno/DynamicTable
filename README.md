@@ -26,8 +26,8 @@ Filters (Date from, Date to, availability, roles and input for name search).<br>
 
 Run those comands in project directory:
 ```sh
-git clone git@git.euvic.pl:staze-2022/staz-marcin-michno.git
-cd staz-marcin-michno
+git clone https://github.com/marmichno/dynamicTable.git
+cd dynamic-table
 npm install
 ```
 
